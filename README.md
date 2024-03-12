@@ -1,3 +1,3 @@
 # WisataMalang
-**Projek Akhir Pemrograman Web** <br>
-WisataMalang adalah web yang berfokus pada pencarian destinasi wisata di Malang Raya
+**Final Project for Pemrograman Web** <br>
+WisataMalang is a web that focused on searching tourism destinantion on Malang Raya
